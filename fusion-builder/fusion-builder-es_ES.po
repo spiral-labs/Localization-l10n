@@ -17,19 +17,19 @@ msgstr ""
 
 #: fusion-builder.php:374
 msgid "Go to the Avada plugin installation page"
-msgstr ""
+msgstr "Ve hacia la página de instalación del plugin Avada"
 
 #: fusion-builder.php:586
 msgid "Fusion Builder Settings"
-msgstr ""
+msgstr "Configuración del Fusion Builder"
 
 #: fusion-builder.php:1287 fusion-builder.php:1291
 msgid "Use Default Editor"
-msgstr ""
+msgstr "Utilizar el Editor por Defecto"
 
 #: fusion-builder.php:1287 fusion-builder.php:1291
 msgid "Use Fusion Builder"
-msgstr ""
+msgstr "Utilizar Fusion Builder"
 
 #. Plugin Name of the plugin/theme
 msgid "Fusion Builder"
@@ -55,7 +55,8 @@ msgstr ""
 msgid ""
 "<strong>IMPORTANT:</strong> Add-ons are only supported by the author who "
 "created them."
-msgstr ""
+msgstr "<strong>IMPORTANTE</strong> El soporte para los Add-ons es provisto "
+"solamente por su respectivo autor."
 
 #: inc/admin-screens/faq.php:7
 msgid ""
